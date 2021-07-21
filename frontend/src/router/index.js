@@ -1,5 +1,5 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import LivrosALugar from '@/components/LivrosAlugar'
+import LivrosALugar from '@/views/Livros'
 
 const routes = [
   {
